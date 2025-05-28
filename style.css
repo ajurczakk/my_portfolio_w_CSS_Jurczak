@@ -1,0 +1,91 @@
+﻿/* FONT AND BACKGROUND COLOR FOR WEBSITE */
+body {
+    font-family: arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* MAIN HEADING */
+h1 {
+    color: #A8BBA2;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* SECTION HEADINGS */
+h2 {
+    color: #A8BBA2;
+    margin-top: 30px;
+}
+
+/* HEADER SECTION */
+header {
+    background-color: #e6f0ff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #A8BBA2;
+}
+
+/* FOOTER */
+footer {
+    background-color: #e6f0ff;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 40px;
+}
+
+/* MAIN CONTENT LAYOUT */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* EMPTY NAV BAR */
+nav {
+    background-color: #A8BBA2;
+    padding: 10px;
+    text-align: center;
+}
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 0 15px;
+    }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+/* BULLET POINTS */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* IMAGE STYLE */
+img {
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+/* LINKS */
+a {
+    color: #A8BBA2;
+}
+
+    a:hover {
+        color: #758E67;
+    }
+
+/* ADDITIONAL SPACING FOR LAYOUT */
+section {
+    margin-bottom: 30px;
+}
